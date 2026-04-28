@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[Green Rosh](https://www.linkedin.com/in/green-rosh-k-s) &nbsp;&nbsp;&nbsp; Prateek Kukreja &nbsp;&nbsp;&nbsp; [Vishakha SR](https://www.linkedin.com/in/vishakha-sr) &nbsp;&nbsp;&nbsp; [Pawan Prasad B H](https://www.linkedin.com/in/pawaniitm)
+[Green Rosh](https://www.linkedin.com/in/green-rosh-k-s) &nbsp;&nbsp;&nbsp; [Prateek Kukreja](https://www.linkedin.com/in/prateek-kukreja) &nbsp;&nbsp;&nbsp; [Vishakha SR](https://www.linkedin.com/in/vishakha-sr) &nbsp;&nbsp;&nbsp; [Pawan Prasad B H](https://www.linkedin.com/in/pawaniitm)
 
 Samsung Research Institute India - Bangalore
 
